@@ -9,7 +9,7 @@ function App() {
    const dispatch = useDispatch();
   return(
 
-    <h1>A bolg app with appwrite ${val.appwriteBucketId}</h1>
+    <h1>A bolg app with appwrite :-{val.appwriteBucketId}</h1>
     // <p>value : {import.meta.env.VITE_hint}</p>
   )
 }
