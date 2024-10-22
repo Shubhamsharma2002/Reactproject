@@ -26,7 +26,7 @@ function App() {
       )
      }else{
       return(
-        <p className="text-3xl font-bold text-red-500">kno</p>
+        <p className="text-3xl font-bold text-red-500">NOOOo</p>
       )
      }
 }
