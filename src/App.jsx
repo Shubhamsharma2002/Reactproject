@@ -22,7 +22,7 @@ function App() {
    },[])
      if(loading == true){
       return(
-        <p>yes</p>
+        <p>yes ------</p>
       )
      }else{
       return(
